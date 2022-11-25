@@ -17,6 +17,10 @@ background-color: rgb(169, 169, 161);
 
 button {
     background-color: rgb(235, 232, 188);
-    ;
+    border-radius: 15px;
 }
 
+form {
+    background-color: rgb(210, 217, 239);
+    border-radius: 13px;
+}
