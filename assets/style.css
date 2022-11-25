@@ -1,0 +1,22 @@
+
+
+body {
+background-color: rgb(169, 169, 161);
+}
+
+
+.card-body {
+    flex:auto;
+    background-color: rgb(231, 190, 124);
+}
+
+
+.card-header {
+    background-color: rgb(183, 141, 240);
+}
+
+button {
+    background-color: rgb(235, 232, 188);
+    ;
+}
+
